@@ -1,1 +1,0 @@
-# SHOMBOL_BOT
