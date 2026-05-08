@@ -1,6 +1,0 @@
-Flask
-python-telegram-bot
-google-generativeai
-requests
-aiohttp
-gunicorn
